@@ -1,1 +1,1 @@
-SELECT * FROM `cidades` WHERE `nome` 'a%';
+SELECT * FROM `cidades` WHERE `nome` '%a';
